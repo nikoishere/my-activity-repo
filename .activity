@@ -15,3 +15,4 @@
 2025-03-28 09:31:22 — adjust timeout values
 2025-03-29 09:31:01 — update changelog
 2025-03-30 09:01:51 — fix race condition
+2025-03-31 09:18:28 — remove redundant code
