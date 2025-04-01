@@ -16,3 +16,4 @@
 2025-03-29 09:31:01 — update changelog
 2025-03-30 09:01:51 — fix race condition
 2025-03-31 09:18:28 — remove redundant code
+2025-04-01 09:31:32 — implement error handling
