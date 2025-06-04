@@ -80,3 +80,4 @@
 2025-06-01 09:42:46 — add example usage
 2025-06-02 09:08:12 — add integration tests
 2025-06-03 09:50:13 — rename variables for clarity
+2025-06-04 09:26:29 — implement service layer
