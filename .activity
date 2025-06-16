@@ -216,3 +216,4 @@
 2025-06-16 14:33:20 — tweak logging output
 2025-06-16 14:34:35 — add example usage
 2025-06-16 14:42:10 — clean up code style
+2025-06-16 14:45:30 — fix memory leak
