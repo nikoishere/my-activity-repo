@@ -168,3 +168,4 @@
 2025-06-16 12:19:19 — tweak logging output
 2025-06-16 12:20:09 — minor style fixes
 2025-06-16 12:20:58 — implement error handling
+2025-06-16 12:21:14 — refactor module structure
