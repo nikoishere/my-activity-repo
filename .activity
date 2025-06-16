@@ -224,3 +224,4 @@
 2025-06-16 14:51:51 — reorganize file structure
 2025-06-16 14:54:56 — tweak logging output
 2025-06-16 14:56:42 — tweak logging output
+2025-06-16 14:58:23 — fix edge case handling
