@@ -210,3 +210,4 @@
 2025-06-16 14:05:26 — minor style fixes
 2025-06-16 14:08:40 — implement core logic
 2025-06-16 14:10:29 — implement core logic
+2025-06-16 14:13:34 — fix off-by-one error
