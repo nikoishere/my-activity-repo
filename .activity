@@ -152,3 +152,4 @@
 2025-06-16 11:35:19 — bump version
 2025-06-16 11:41:08 — optimize loop performance
 2025-06-16 11:42:06 — extract reusable components
+2025-06-16 11:44:48 — fix memory leak
