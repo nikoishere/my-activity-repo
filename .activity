@@ -238,3 +238,4 @@
 2025-06-16 15:23:05 — fix off-by-one error
 2025-06-16 15:25:08 — add unit tests
 2025-06-16 15:25:12 — add test fixtures
+2025-06-16 15:26:46 — update error messages
