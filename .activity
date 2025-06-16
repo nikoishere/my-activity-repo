@@ -119,3 +119,4 @@
 2025-06-16 10:04:20 — bump version
 2025-06-16 10:05:03 — fix formatting issue
 2025-06-16 10:08:34 — fix off-by-one error
+2025-06-16 10:08:43 — refactor module structure
