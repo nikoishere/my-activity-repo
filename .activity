@@ -342,3 +342,4 @@
 2025-06-17 11:08:11 — fix typo in variable name
 2025-06-17 11:10:17 — add initial implementation
 2025-06-17 11:11:24 — simplify logic
+2025-06-17 11:16:15 — fix off-by-one error
