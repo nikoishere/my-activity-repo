@@ -276,3 +276,4 @@
 2025-06-16 17:08:38 — tweak logging output
 2025-06-16 17:09:44 — refactor module structure
 2025-06-16 17:11:43 — add inline comments
+2025-06-16 17:13:53 — add configuration support
