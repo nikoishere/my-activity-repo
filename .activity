@@ -431,3 +431,4 @@
 2025-06-17 15:10:12 — add utility functions
 2025-06-17 15:10:18 — fix race condition
 2025-06-17 15:10:19 — fix null pointer issue
+2025-06-17 15:12:37 — fix off-by-one error
