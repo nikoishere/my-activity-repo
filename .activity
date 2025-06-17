@@ -416,3 +416,4 @@
 2025-06-17 14:31:10 — tweak logging output
 2025-06-17 14:32:34 — fix flaky test
 2025-06-17 14:35:47 — fix formatting issue
+2025-06-17 14:36:42 — fix race condition
