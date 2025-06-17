@@ -434,3 +434,4 @@
 2025-06-17 15:12:37 — fix off-by-one error
 2025-06-17 15:14:16 — rename variables for clarity
 2025-06-17 15:15:54 — tweak logging output
+2025-06-17 15:18:17 — add helper methods
