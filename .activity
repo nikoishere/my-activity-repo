@@ -284,3 +284,4 @@
 2025-06-16 17:29:51 — add validation logic
 2025-06-16 17:32:06 — fix incorrect calculation
 2025-06-16 17:32:47 — add helper methods
+2025-06-16 17:33:23 — implement error handling
