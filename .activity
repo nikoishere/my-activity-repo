@@ -332,3 +332,4 @@
 2025-06-17 10:34:41 — update config defaults
 2025-06-17 10:36:40 — add test fixtures
 2025-06-17 10:40:15 — add utility functions
+2025-06-17 10:42:17 — fix race condition
