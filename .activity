@@ -457,3 +457,4 @@
 2025-06-17 16:15:38 — add helper methods
 2025-06-17 16:17:37 — update error messages
 2025-06-17 16:18:15 — improve code readability
+2025-06-17 16:19:40 — fix null pointer issue
