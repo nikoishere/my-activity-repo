@@ -429,3 +429,4 @@
 2025-06-17 15:08:39 — add example usage
 2025-06-17 15:09:55 — improve variable naming
 2025-06-17 15:10:12 — add utility functions
+2025-06-17 15:10:18 — fix race condition
