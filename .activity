@@ -282,3 +282,4 @@
 2025-06-16 17:26:55 — tweak logging output
 2025-06-16 17:27:40 — add test fixtures
 2025-06-16 17:29:51 — add validation logic
+2025-06-16 17:32:06 — fix incorrect calculation
