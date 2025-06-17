@@ -277,3 +277,4 @@
 2025-06-16 17:09:44 — refactor module structure
 2025-06-16 17:11:43 — add inline comments
 2025-06-16 17:13:53 — add configuration support
+2025-06-16 17:21:07 — fix edge case handling
