@@ -575,3 +575,4 @@
 2025-06-18 12:36:04 — tweak logging output
 2025-06-18 12:40:04 — fix memory leak
 2025-06-18 12:41:55 — update config defaults
+2025-06-18 12:44:39 — implement data processing layer
