@@ -574,3 +574,4 @@
 2025-06-18 12:34:36 — improve test coverage
 2025-06-18 12:36:04 — tweak logging output
 2025-06-18 12:40:04 — fix memory leak
+2025-06-18 12:41:55 — update config defaults
