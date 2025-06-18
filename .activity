@@ -583,3 +583,4 @@
 2025-06-18 12:58:12 — fix broken import
 2025-06-18 13:00:21 — update changelog
 2025-06-18 13:03:07 — fix flaky test
+2025-06-18 13:04:34 — fix edge case handling
