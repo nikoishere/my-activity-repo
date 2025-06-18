@@ -538,3 +538,4 @@
 2025-06-18 10:54:59 — add unit tests
 2025-06-18 10:56:18 — fix incorrect calculation
 2025-06-18 11:01:22 — rename variables for clarity
+2025-06-18 11:01:56 — simplify logic
