@@ -635,3 +635,4 @@
 2025-06-18 15:10:08 — fix incorrect calculation
 2025-06-18 15:10:36 — bump version
 2025-06-18 15:14:52 — reorganize file structure
+2025-06-18 15:18:52 — fix race condition
