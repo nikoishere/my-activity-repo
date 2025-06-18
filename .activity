@@ -548,3 +548,4 @@
 2025-06-18 11:16:22 — add integration tests
 2025-06-18 11:17:07 — add helper methods
 2025-06-18 11:18:25 — add configuration support
+2025-06-18 11:20:37 — refactor module structure
