@@ -519,3 +519,4 @@
 2025-06-18 10:00:33 — remove redundant code
 2025-06-18 10:00:52 — add configuration support
 2025-06-18 10:11:14 — fix race condition
+2025-06-18 10:11:51 — implement service layer
