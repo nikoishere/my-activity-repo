@@ -500,3 +500,4 @@
 2025-06-18 09:06:00 — clean up code style
 2025-06-18 09:09:04 — update documentation
 2025-06-18 09:11:07 — minor code cleanup
+2025-06-18 09:14:55 — fix off-by-one error
