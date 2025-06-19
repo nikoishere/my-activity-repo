@@ -831,3 +831,4 @@
 2025-06-19 15:11:34 — add initial implementation
 2025-06-19 15:14:58 — clean up code style
 2025-06-19 15:15:17 — fix type mismatch
+2025-06-19 15:17:43 — add utility functions
