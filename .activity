@@ -751,3 +751,4 @@
 2025-06-19 11:34:11 — fix broken import
 2025-06-19 11:37:55 — update error messages
 2025-06-19 11:39:26 — tweak logging output
+2025-06-19 11:39:48 — fix memory leak
