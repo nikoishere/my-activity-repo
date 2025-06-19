@@ -681,3 +681,4 @@
 2025-06-18 17:34:24 — fix memory leak
 2025-06-18 17:34:52 — fix flaky test
 2025-06-18 17:40:26 — add helper methods
+2025-06-18 17:40:58 — add integration tests
