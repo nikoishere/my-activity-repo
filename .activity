@@ -702,3 +702,4 @@
 2025-06-19 09:25:17 — add configuration support
 2025-06-19 09:26:28 — minor style fixes
 2025-06-19 09:28:52 — fix off-by-one error
+2025-06-19 09:31:24 — minor code cleanup
