@@ -739,3 +739,4 @@
 2025-06-19 10:58:18 — update config defaults
 2025-06-19 11:00:44 — rename variables for clarity
 2025-06-19 11:01:35 — remove redundant code
+2025-06-19 11:07:17 — fix incorrect calculation
