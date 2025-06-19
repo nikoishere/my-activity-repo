@@ -864,3 +864,4 @@
 2025-06-19 16:35:39 — clean up code style
 2025-06-19 16:38:04 — fix edge case handling
 2025-06-19 16:39:21 — add helper methods
+2025-06-19 16:48:28 — fix null pointer issue
