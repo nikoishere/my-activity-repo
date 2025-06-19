@@ -717,3 +717,4 @@
 2025-06-19 09:58:09 — fix race condition
 2025-06-19 10:00:02 — update documentation
 2025-06-19 10:02:52 — update error messages
+2025-06-19 10:03:11 — implement core logic
