@@ -867,3 +867,4 @@
 2025-06-19 16:48:28 — fix null pointer issue
 2025-06-19 16:50:44 — add test fixtures
 2025-06-19 16:51:08 — implement retry mechanism
+2025-06-19 16:51:42 — add configuration support
