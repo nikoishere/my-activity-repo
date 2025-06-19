@@ -755,3 +755,4 @@
 2025-06-19 11:44:04 — add initial implementation
 2025-06-19 11:44:14 — fix flaky test
 2025-06-19 11:45:03 — add feature scaffolding
+2025-06-19 11:47:57 — fix null pointer issue
