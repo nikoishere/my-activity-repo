@@ -770,3 +770,4 @@
 2025-06-19 12:33:37 — fix race condition
 2025-06-19 12:39:15 — add helper methods
 2025-06-19 12:39:40 — add initial implementation
+2025-06-19 12:40:29 — implement service layer
