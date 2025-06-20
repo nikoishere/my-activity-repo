@@ -1027,3 +1027,4 @@
 2025-06-20 14:59:03 — tweak logging output
 2025-06-20 14:59:23 — simplify logic
 2025-06-20 15:00:25 — implement caching layer
+2025-06-20 15:04:28 — fix null pointer issue
