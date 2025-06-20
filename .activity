@@ -1067,3 +1067,4 @@
 2025-06-20 16:46:40 — extract reusable components
 2025-06-20 16:50:47 — update config defaults
 2025-06-20 16:52:26 — implement retry mechanism
+2025-06-20 16:54:01 — add helper methods
