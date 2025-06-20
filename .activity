@@ -906,3 +906,4 @@
 2025-06-20 09:34:02 — add integration tests
 2025-06-20 09:34:37 — fix broken import
 2025-06-20 09:37:31 — reorganize file structure
+2025-06-20 09:38:40 — refactor test setup
