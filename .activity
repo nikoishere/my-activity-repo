@@ -969,3 +969,4 @@
 2025-06-20 12:17:23 — fix edge case handling
 2025-06-20 12:18:31 — update config defaults
 2025-06-20 12:20:55 — fix incorrect calculation
+2025-06-20 12:23:04 — add helper methods
