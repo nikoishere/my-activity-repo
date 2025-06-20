@@ -928,3 +928,4 @@
 2025-06-20 10:21:59 — implement caching layer
 2025-06-20 10:29:45 — add configuration support
 2025-06-20 10:31:12 — update config defaults
+2025-06-20 10:34:24 — implement error handling
