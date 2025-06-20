@@ -971,3 +971,4 @@
 2025-06-20 12:20:55 — fix incorrect calculation
 2025-06-20 12:23:04 — add helper methods
 2025-06-20 12:28:20 — refactor test setup
+2025-06-20 12:30:54 — fix null pointer issue
