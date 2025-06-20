@@ -882,3 +882,4 @@
 2025-06-19 17:18:15 — fix off-by-one error
 2025-06-19 17:25:05 — update config defaults
 2025-06-19 17:25:18 — add inline comments
+2025-06-19 17:27:58 — fix race condition
