@@ -1051,3 +1051,4 @@
 2025-06-20 16:00:04 — refactor module structure
 2025-06-20 16:00:57 — add example usage
 2025-06-20 16:04:48 — fix off-by-one error
+2025-06-20 16:11:46 — fix memory leak
