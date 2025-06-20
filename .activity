@@ -1060,3 +1060,4 @@
 2025-06-20 16:21:22 — add helper methods
 2025-06-20 16:23:46 — remove redundant code
 2025-06-20 16:29:24 — add integration tests
+2025-06-20 16:32:59 — implement service layer
