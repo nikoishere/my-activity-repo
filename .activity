@@ -934,3 +934,4 @@
 2025-06-20 10:41:27 — fix typo in variable name
 2025-06-20 10:41:48 — fix race condition
 2025-06-20 10:48:17 — improve test coverage
+2025-06-20 10:55:08 — add helper methods
