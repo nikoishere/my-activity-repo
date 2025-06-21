@@ -1076,3 +1076,4 @@
 2025-06-20 17:09:22 — update README
 2025-06-20 17:10:33 — fix off-by-one error
 2025-06-20 17:11:25 — fix flaky test
+2025-06-20 17:12:06 — add unit tests
