@@ -1113,3 +1113,4 @@
 2025-06-24 09:27:15 — rename variables for clarity
 2025-06-24 09:27:26 — add helper methods
 2025-06-24 09:27:58 — minor code cleanup
+2025-06-24 09:32:00 — extract reusable components
