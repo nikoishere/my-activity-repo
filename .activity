@@ -1267,3 +1267,4 @@
 2025-06-24 16:26:41 — fix edge case handling
 2025-06-24 16:31:20 — add initial implementation
 2025-06-24 16:33:48 — fix type mismatch
+2025-06-24 16:35:54 — add configuration support
