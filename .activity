@@ -1221,3 +1221,4 @@
 2025-06-24 14:26:19 — fix type mismatch
 2025-06-24 14:28:50 — add example usage
 2025-06-24 14:30:17 — tweak logging output
+2025-06-24 14:37:20 — add utility functions
