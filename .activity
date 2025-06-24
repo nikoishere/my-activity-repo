@@ -1240,3 +1240,4 @@
 2025-06-24 15:27:58 — fix incorrect calculation
 2025-06-24 15:31:42 — fix broken import
 2025-06-24 15:31:43 — fix edge case handling
+2025-06-24 15:37:29 — update config defaults
