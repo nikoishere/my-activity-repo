@@ -1191,3 +1191,4 @@
 2025-06-24 13:14:14 — update config defaults
 2025-06-24 13:14:52 — fix race condition
 2025-06-24 13:19:12 — minor style fixes
+2025-06-24 13:22:41 — improve code readability
