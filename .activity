@@ -1114,3 +1114,4 @@
 2025-06-24 09:27:26 — add helper methods
 2025-06-24 09:27:58 — minor code cleanup
 2025-06-24 09:32:00 — extract reusable components
+2025-06-24 09:33:55 — fix edge case handling
