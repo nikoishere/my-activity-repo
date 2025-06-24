@@ -1189,3 +1189,4 @@
 2025-06-24 13:03:48 — update documentation
 2025-06-24 13:13:39 — update README
 2025-06-24 13:14:14 — update config defaults
+2025-06-24 13:14:52 — fix race condition
