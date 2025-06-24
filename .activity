@@ -1100,3 +1100,4 @@
 2025-06-24 09:03:21 — update error messages
 2025-06-24 09:03:39 — add test fixtures
 2025-06-24 09:04:04 — minor code cleanup
+2025-06-24 09:04:22 — fix type mismatch
