@@ -1197,3 +1197,4 @@
 2025-06-24 13:32:55 — add helper methods
 2025-06-24 13:37:10 — add integration tests
 2025-06-24 13:38:07 — improve code readability
+2025-06-24 13:40:24 — fix off-by-one error
