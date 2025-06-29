@@ -1299,3 +1299,4 @@
 2025-06-26 09:05:27 — add unit tests
 2025-06-27 09:21:28 — rename variables for clarity
 2025-06-28 09:42:37 — remove redundant code
+2025-06-29 09:51:40 — fix edge case handling
