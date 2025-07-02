@@ -1337,3 +1337,4 @@
 2025-07-02 10:27:21 — minor style fixes
 2025-07-02 10:30:34 — add helper methods
 2025-07-02 10:30:45 — add configuration support
+2025-07-02 10:34:11 — refactor test setup
