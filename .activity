@@ -1391,3 +1391,4 @@
 2025-07-02 12:52:22 — tweak logging output
 2025-07-02 12:56:00 — simplify logic
 2025-07-02 12:58:16 — fix edge case handling
+2025-07-02 13:06:26 — reorganize file structure
