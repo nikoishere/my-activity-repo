@@ -1388,3 +1388,4 @@
 2025-07-02 12:40:44 — add inline comments
 2025-07-02 12:41:18 — update README
 2025-07-02 12:44:51 — implement retry mechanism
+2025-07-02 12:52:22 — tweak logging output
