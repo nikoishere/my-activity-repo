@@ -1398,3 +1398,4 @@
 2025-07-02 13:16:12 — update README
 2025-07-02 13:17:33 — update error messages
 2025-07-02 13:18:03 — fix edge case handling
+2025-07-02 13:20:45 — rename variables for clarity
