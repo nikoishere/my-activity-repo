@@ -1347,3 +1347,4 @@
 2025-07-02 10:55:10 — clean up code style
 2025-07-02 10:58:53 — add helper methods
 2025-07-02 10:59:47 — fix edge case handling
+2025-07-02 11:05:18 — fix off-by-one error
