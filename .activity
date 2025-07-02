@@ -1321,3 +1321,4 @@
 2025-07-02 09:48:26 — add example usage
 2025-07-02 09:50:36 — remove redundant code
 2025-07-02 09:53:45 — add feature scaffolding
+2025-07-02 09:56:57 — fix off-by-one error
