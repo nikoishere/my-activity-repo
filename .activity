@@ -1389,3 +1389,4 @@
 2025-07-02 12:41:18 — update README
 2025-07-02 12:44:51 — implement retry mechanism
 2025-07-02 12:52:22 — tweak logging output
+2025-07-02 12:56:00 — simplify logic
