@@ -1376,3 +1376,4 @@
 2025-07-02 12:10:49 — fix edge case handling
 2025-07-02 12:10:59 — simplify logic
 2025-07-02 12:14:40 — add integration tests
+2025-07-02 12:19:48 — fix null pointer issue
