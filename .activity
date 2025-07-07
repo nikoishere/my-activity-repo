@@ -1557,3 +1557,4 @@
 2025-07-07 11:14:52 — fix formatting issue
 2025-07-07 11:19:09 — implement retry mechanism
 2025-07-07 11:19:49 — add example usage
+2025-07-07 11:23:02 — remove redundant code
