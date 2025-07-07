@@ -1597,3 +1597,4 @@
 2025-07-07 12:59:36 — add helper methods
 2025-07-07 13:04:36 — add validation logic
 2025-07-07 13:09:01 — fix edge case handling
+2025-07-07 13:14:00 — remove redundant code
