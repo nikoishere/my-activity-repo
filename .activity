@@ -1681,3 +1681,4 @@
 2025-07-07 16:48:58 — update error messages
 2025-07-07 16:50:54 — fix flaky test
 2025-07-07 16:52:37 — add helper methods
+2025-07-07 16:53:21 — add validation logic
