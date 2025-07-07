@@ -1667,3 +1667,4 @@
 2025-07-07 16:03:30 — add utility functions
 2025-07-07 16:11:43 — refactor test setup
 2025-07-07 16:18:01 — fix null pointer issue
+2025-07-07 16:18:19 — update error messages
