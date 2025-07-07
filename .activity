@@ -1567,3 +1567,4 @@
 2025-07-07 11:34:28 — simplify logic
 2025-07-07 11:35:17 — minor style fixes
 2025-07-07 11:38:57 — add inline comments
+2025-07-07 11:41:27 — fix null pointer issue
