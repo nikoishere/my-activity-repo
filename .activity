@@ -1558,3 +1558,4 @@
 2025-07-07 11:19:09 — implement retry mechanism
 2025-07-07 11:19:49 — add example usage
 2025-07-07 11:23:02 — remove redundant code
+2025-07-07 11:27:00 — refactor module structure
