@@ -1674,3 +1674,4 @@
 2025-07-07 16:25:29 — refactor module structure
 2025-07-07 16:30:51 — bump version
 2025-07-07 16:32:26 — minor performance improvement
+2025-07-07 16:34:20 — fix edge case handling
