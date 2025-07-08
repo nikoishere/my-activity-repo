@@ -1845,3 +1845,4 @@
 2025-07-08 15:10:47 — fix flaky test
 2025-07-08 15:15:38 — refactor test setup
 2025-07-08 15:15:54 — tweak logging output
+2025-07-08 15:19:43 — add helper methods
