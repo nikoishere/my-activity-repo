@@ -1836,3 +1836,4 @@
 2025-07-08 14:47:45 — add inline comments
 2025-07-08 14:49:02 — fix edge case handling
 2025-07-08 14:50:38 — fix broken import
+2025-07-08 14:51:11 — simplify logic
