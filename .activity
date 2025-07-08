@@ -1777,3 +1777,4 @@
 2025-07-08 12:12:50 — tweak logging output
 2025-07-08 12:21:47 — minor performance improvement
 2025-07-08 12:22:42 — add initial implementation
+2025-07-08 12:23:39 — fix race condition
