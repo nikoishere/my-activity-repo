@@ -1685,3 +1685,4 @@
 2025-07-07 16:53:54 — minor performance improvement
 2025-07-07 16:56:36 — tweak logging output
 2025-07-07 17:00:12 — improve test coverage
+2025-07-07 17:04:41 — extract reusable components
