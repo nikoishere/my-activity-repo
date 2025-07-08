@@ -1876,3 +1876,4 @@
 2025-07-08 16:27:25 — add utility functions
 2025-07-08 16:27:56 — rename variables for clarity
 2025-07-08 16:30:30 — fix broken import
+2025-07-08 16:31:41 — refactor module structure
