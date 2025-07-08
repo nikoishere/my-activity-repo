@@ -1856,3 +1856,4 @@
 2025-07-08 15:40:09 — add integration tests
 2025-07-08 15:44:41 — update documentation
 2025-07-08 15:47:29 — update config defaults
+2025-07-08 15:48:58 — implement caching layer
