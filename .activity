@@ -1759,3 +1759,4 @@
 2025-07-08 11:18:06 — add helper methods
 2025-07-08 11:19:36 — update README
 2025-07-08 11:19:49 — fix memory leak
+2025-07-08 11:20:40 — extract reusable components
