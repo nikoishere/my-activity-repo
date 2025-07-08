@@ -1760,3 +1760,4 @@
 2025-07-08 11:19:36 — update README
 2025-07-08 11:19:49 — fix memory leak
 2025-07-08 11:20:40 — extract reusable components
+2025-07-08 11:20:56 — fix null pointer issue
