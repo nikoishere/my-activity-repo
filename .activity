@@ -1686,3 +1686,4 @@
 2025-07-07 16:56:36 — tweak logging output
 2025-07-07 17:00:12 — improve test coverage
 2025-07-07 17:04:41 — extract reusable components
+2025-07-07 17:14:51 — add configuration support
