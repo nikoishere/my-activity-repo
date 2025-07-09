@@ -2000,3 +2000,4 @@
 2025-07-09 13:04:56 — add example usage
 2025-07-09 13:07:28 — fix memory leak
 2025-07-09 13:13:42 — reorganize file structure
+2025-07-09 13:14:25 — add utility functions
