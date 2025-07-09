@@ -1961,3 +1961,4 @@
 2025-07-09 11:27:24 — fix edge case handling
 2025-07-09 11:27:30 — update config defaults
 2025-07-09 11:28:13 — bump version
+2025-07-09 11:29:07 — add unit tests
