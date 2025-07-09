@@ -1941,3 +1941,4 @@
 2025-07-09 10:28:57 — fix null pointer issue
 2025-07-09 10:33:52 — add helper methods
 2025-07-09 10:34:04 — update documentation
+2025-07-09 10:37:06 — add integration tests
