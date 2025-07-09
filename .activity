@@ -1949,3 +1949,4 @@
 2025-07-09 10:42:58 — update dependencies
 2025-07-09 10:53:07 — add integration tests
 2025-07-09 10:54:32 — update config defaults
+2025-07-09 10:59:39 — fix edge case handling
