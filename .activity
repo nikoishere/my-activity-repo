@@ -1939,3 +1939,4 @@
 2025-07-09 10:25:49 — tweak logging output
 2025-07-09 10:26:13 — improve test coverage
 2025-07-09 10:28:57 — fix null pointer issue
+2025-07-09 10:33:52 — add helper methods
