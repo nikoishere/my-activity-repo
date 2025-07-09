@@ -1988,3 +1988,4 @@
 2025-07-09 12:31:48 — fix race condition
 2025-07-09 12:32:08 — add utility functions
 2025-07-09 12:35:24 — rename variables for clarity
+2025-07-09 12:37:12 — add helper methods
