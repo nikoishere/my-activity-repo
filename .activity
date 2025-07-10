@@ -2168,3 +2168,4 @@
 2025-07-10 11:38:26 — tweak logging output
 2025-07-10 11:39:49 — add configuration support
 2025-07-10 11:42:34 — add feature scaffolding
+2025-07-10 11:43:34 — fix off-by-one error
