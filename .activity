@@ -2127,3 +2127,4 @@
 2025-07-10 09:47:06 — remove redundant code
 2025-07-10 09:50:34 — update changelog
 2025-07-10 09:51:46 — update config defaults
+2025-07-10 09:56:29 — fix edge case handling
