@@ -2267,3 +2267,4 @@
 2025-07-10 16:06:24 — fix edge case handling
 2025-07-10 16:11:33 — tweak logging output
 2025-07-10 16:14:28 — fix incorrect calculation
+2025-07-10 16:16:18 — fix null pointer issue
