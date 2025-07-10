@@ -2196,3 +2196,4 @@
 2025-07-10 12:52:14 — add initial implementation
 2025-07-10 12:56:04 — fix off-by-one error
 2025-07-10 13:00:51 — update error messages
+2025-07-10 13:04:57 — update config defaults
