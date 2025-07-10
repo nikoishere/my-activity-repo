@@ -2237,3 +2237,4 @@
 2025-07-10 14:40:52 — minor style fixes
 2025-07-10 14:54:47 — implement error handling
 2025-07-10 14:55:34 — implement retry mechanism
+2025-07-10 14:55:47 — implement service layer
