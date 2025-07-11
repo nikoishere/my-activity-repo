@@ -2414,3 +2414,4 @@
 2025-07-11 13:41:02 — minor performance improvement
 2025-07-11 13:45:12 — remove redundant code
 2025-07-11 13:48:51 — rename variables for clarity
+2025-07-11 13:51:17 — add utility functions
