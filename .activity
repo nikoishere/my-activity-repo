@@ -2446,3 +2446,4 @@
 2025-07-11 15:14:17 — update config defaults
 2025-07-11 15:15:35 — implement service layer
 2025-07-11 15:20:16 — add unit tests
+2025-07-11 15:23:40 — add configuration support
