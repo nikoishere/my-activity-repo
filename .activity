@@ -2336,3 +2336,4 @@
 2025-07-11 10:08:51 — fix null pointer issue
 2025-07-11 10:09:28 — remove redundant code
 2025-07-11 10:14:11 — add test fixtures
+2025-07-11 10:16:30 — fix off-by-one error
