@@ -2449,3 +2449,4 @@
 2025-07-11 15:23:40 — add configuration support
 2025-07-11 15:27:38 — simplify logic
 2025-07-11 15:29:44 — add inline comments
+2025-07-11 15:30:15 — fix null pointer issue
