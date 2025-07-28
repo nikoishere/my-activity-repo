@@ -2662,3 +2662,4 @@
 2025-07-28 15:19:33 — add utility functions
 2025-07-28 15:25:02 — add feature scaffolding
 2025-07-28 15:25:15 — add initial implementation
+2025-07-28 15:26:42 — fix off-by-one error
