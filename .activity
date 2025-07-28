@@ -2570,3 +2570,4 @@
 2025-07-28 11:01:31 — implement data processing layer
 2025-07-28 11:05:00 — fix typo in variable name
 2025-07-28 11:06:14 — fix memory leak
+2025-07-28 11:06:22 — add helper methods
