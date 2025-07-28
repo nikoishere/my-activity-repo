@@ -2559,3 +2559,4 @@
 2025-07-28 10:40:56 — minor code cleanup
 2025-07-28 10:42:11 — fix memory leak
 2025-07-28 10:42:13 — update config defaults
+2025-07-28 10:44:01 — fix incorrect calculation
