@@ -2596,3 +2596,4 @@
 2025-07-28 12:12:11 — fix flaky test
 2025-07-28 12:17:11 — fix edge case handling
 2025-07-28 12:17:24 — fix incorrect calculation
+2025-07-28 12:17:32 — add test fixtures
