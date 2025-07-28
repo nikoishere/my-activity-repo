@@ -2696,3 +2696,4 @@
 2025-07-28 16:45:11 — tweak logging output
 2025-07-28 16:45:24 — refactor test setup
 2025-07-28 16:50:05 — improve test coverage
+2025-07-28 16:53:16 — fix memory leak
