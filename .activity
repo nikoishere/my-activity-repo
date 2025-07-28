@@ -2555,3 +2555,4 @@
 2025-07-28 10:24:16 — fix formatting issue
 2025-07-28 10:25:04 — add helper methods
 2025-07-28 10:37:38 — add initial implementation
+2025-07-28 10:39:55 — fix edge case handling
