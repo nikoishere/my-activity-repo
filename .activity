@@ -2601,3 +2601,4 @@
 2025-07-28 12:28:26 — fix edge case handling
 2025-07-28 12:29:29 — add example usage
 2025-07-28 12:31:55 — improve test coverage
+2025-07-28 12:32:01 — rename variables for clarity
