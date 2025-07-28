@@ -2628,3 +2628,4 @@
 2025-07-28 13:39:53 — update documentation
 2025-07-28 13:40:25 — update README
 2025-07-28 13:41:43 — add validation logic
+2025-07-28 13:41:48 — fix off-by-one error
