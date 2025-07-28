@@ -2557,3 +2557,4 @@
 2025-07-28 10:37:38 — add initial implementation
 2025-07-28 10:39:55 — fix edge case handling
 2025-07-28 10:40:56 — minor code cleanup
+2025-07-28 10:42:11 — fix memory leak
