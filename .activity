@@ -2546,3 +2546,4 @@
 2025-07-28 09:46:03 — fix typo in variable name
 2025-07-28 09:48:30 — update config defaults
 2025-07-28 10:01:46 — update documentation
+2025-07-28 10:04:03 — fix off-by-one error
