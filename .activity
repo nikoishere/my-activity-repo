@@ -2594,3 +2594,4 @@
 2025-07-28 12:09:12 — reorganize file structure
 2025-07-28 12:11:11 — add integration tests
 2025-07-28 12:12:11 — fix flaky test
+2025-07-28 12:17:11 — fix edge case handling
