@@ -2560,3 +2560,4 @@
 2025-07-28 10:42:11 — fix memory leak
 2025-07-28 10:42:13 — update config defaults
 2025-07-28 10:44:01 — fix incorrect calculation
+2025-07-28 10:48:46 — rename variables for clarity
