@@ -2644,3 +2644,4 @@
 2025-07-28 14:12:52 — add integration tests
 2025-07-28 14:13:47 — adjust timeout values
 2025-07-28 14:16:45 — tweak logging output
+2025-07-28 14:21:08 — fix null pointer issue
