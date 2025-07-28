@@ -2592,3 +2592,4 @@
 2025-07-28 12:04:51 — improve test coverage
 2025-07-28 12:07:57 — fix off-by-one error
 2025-07-28 12:09:12 — reorganize file structure
+2025-07-28 12:11:11 — add integration tests
