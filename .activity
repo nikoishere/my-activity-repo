@@ -2657,3 +2657,4 @@
 2025-07-28 14:54:52 — add initial implementation
 2025-07-28 14:58:54 — implement service layer
 2025-07-28 15:04:44 — fix type mismatch
+2025-07-28 15:10:29 — add utility functions
