@@ -2641,3 +2641,4 @@
 2025-07-28 14:08:06 — bump version
 2025-07-28 14:11:44 — improve test coverage
 2025-07-28 14:11:46 — fix type mismatch
+2025-07-28 14:12:52 — add integration tests
