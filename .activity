@@ -2542,3 +2542,4 @@
 2025-07-28 09:38:00 — add test fixtures
 2025-07-28 09:39:50 — minor performance improvement
 2025-07-28 09:42:12 — update config defaults
+2025-07-28 09:44:47 — fix type mismatch
