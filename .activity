@@ -2717,3 +2717,4 @@
 2025-07-28 17:35:02 — minor code cleanup
 2025-07-28 17:36:13 — fix race condition
 2025-07-28 17:39:48 — add helper methods
+2025-07-28 17:44:37 — add configuration support
