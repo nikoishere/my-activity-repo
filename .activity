@@ -2810,3 +2810,4 @@
 2025-07-29 12:48:52 — update dependencies
 2025-07-29 12:52:03 — fix type mismatch
 2025-07-29 12:53:30 — add example usage
+2025-07-29 12:55:40 — fix broken import
