@@ -2842,3 +2842,4 @@
 2025-07-29 14:11:19 — fix off-by-one error
 2025-07-29 14:11:38 — fix race condition
 2025-07-29 14:15:17 — fix formatting issue
+2025-07-29 14:15:54 — add integration tests
