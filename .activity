@@ -2839,3 +2839,4 @@
 2025-07-29 14:04:14 — add example usage
 2025-07-29 14:05:11 — implement service layer
 2025-07-29 14:09:30 — implement error handling
+2025-07-29 14:11:19 — fix off-by-one error
