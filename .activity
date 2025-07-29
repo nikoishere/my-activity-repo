@@ -2783,3 +2783,4 @@
 2025-07-29 11:33:03 — add integration tests
 2025-07-29 11:34:44 — minor performance improvement
 2025-07-29 11:40:11 — fix edge case handling
+2025-07-29 11:44:06 — fix memory leak
