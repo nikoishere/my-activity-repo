@@ -2872,3 +2872,4 @@
 2025-07-29 15:39:04 — add integration tests
 2025-07-29 15:45:12 — implement error handling
 2025-07-29 15:45:23 — add validation logic
+2025-07-29 15:46:03 — fix off-by-one error
