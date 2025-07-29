@@ -2869,3 +2869,4 @@
 2025-07-29 15:32:12 — add utility functions
 2025-07-29 15:35:57 — fix type mismatch
 2025-07-29 15:38:33 — add configuration support
+2025-07-29 15:39:04 — add integration tests
