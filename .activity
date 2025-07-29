@@ -2737,3 +2737,4 @@
 2025-07-29 09:32:11 — refactor test setup
 2025-07-29 09:33:13 — add integration tests
 2025-07-29 09:38:36 — fix broken import
+2025-07-29 09:38:54 — fix type mismatch
