@@ -2838,3 +2838,4 @@
 2025-07-29 14:00:29 — tweak logging output
 2025-07-29 14:04:14 — add example usage
 2025-07-29 14:05:11 — implement service layer
+2025-07-29 14:09:30 — implement error handling
