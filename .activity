@@ -2859,3 +2859,4 @@
 2025-07-29 15:01:28 — add test fixtures
 2025-07-29 15:04:20 — fix memory leak
 2025-07-29 15:12:13 — add helper methods
+2025-07-29 15:13:19 — implement service layer
