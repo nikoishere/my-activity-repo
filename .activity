@@ -2965,3 +2965,4 @@
 2025-07-30 10:50:45 — add example usage
 2025-07-30 10:54:07 — implement retry mechanism
 2025-07-30 10:54:49 — fix formatting issue
+2025-07-30 10:54:53 — tweak logging output
