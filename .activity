@@ -2948,3 +2948,4 @@
 2025-07-30 10:03:32 — fix race condition
 2025-07-30 10:07:02 — reorganize file structure
 2025-07-30 10:07:53 — implement caching layer
+2025-07-30 10:10:29 — add helper methods
