@@ -3036,3 +3036,4 @@
 2025-07-30 13:57:36 — add validation logic
 2025-07-30 14:03:32 — simplify logic
 2025-07-30 14:04:21 — update config defaults
+2025-07-30 14:05:08 — implement service layer
