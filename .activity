@@ -2968,3 +2968,4 @@
 2025-07-30 10:54:53 — tweak logging output
 2025-07-30 10:57:47 — fix memory leak
 2025-07-30 11:01:47 — fix memory leak
+2025-07-30 11:08:18 — implement error handling
