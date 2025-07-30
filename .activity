@@ -2946,3 +2946,4 @@
 2025-07-30 09:58:48 — update documentation
 2025-07-30 09:59:00 — update config defaults
 2025-07-30 10:03:32 — fix race condition
+2025-07-30 10:07:02 — reorganize file structure
