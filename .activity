@@ -2996,3 +2996,4 @@
 2025-07-30 12:20:57 — update documentation
 2025-07-30 12:22:59 — minor code cleanup
 2025-07-30 12:23:05 — update changelog
+2025-07-30 12:25:26 — fix memory leak
