@@ -2987,3 +2987,4 @@
 2025-07-30 11:52:45 — fix null pointer issue
 2025-07-30 11:53:39 — fix typo in variable name
 2025-07-30 11:54:31 — remove redundant code
+2025-07-30 11:54:40 — add example usage
