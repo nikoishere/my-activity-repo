@@ -2978,3 +2978,4 @@
 2025-07-30 11:29:36 — update config defaults
 2025-07-30 11:32:08 — extract reusable components
 2025-07-30 11:38:11 — tweak logging output
+2025-07-30 11:38:43 — refactor module structure
