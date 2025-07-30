@@ -2915,3 +2915,4 @@
 2025-07-29 17:26:48 — add initial implementation
 2025-07-29 17:34:27 — implement error handling
 2025-07-29 17:36:14 — fix broken import
+2025-07-29 17:39:55 — add configuration support
