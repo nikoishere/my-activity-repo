@@ -2951,3 +2951,4 @@
 2025-07-30 10:10:29 — add helper methods
 2025-07-30 10:18:44 — fix edge case handling
 2025-07-30 10:19:11 — update error messages
+2025-07-30 10:21:49 — implement service layer
