@@ -2979,3 +2979,4 @@
 2025-07-30 11:32:08 — extract reusable components
 2025-07-30 11:38:11 — tweak logging output
 2025-07-30 11:38:43 — refactor module structure
+2025-07-30 11:42:32 — add integration tests
