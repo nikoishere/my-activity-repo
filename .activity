@@ -3097,3 +3097,4 @@
 2025-07-30 16:45:28 — implement error handling
 2025-07-30 16:48:29 — minor performance improvement
 2025-07-30 16:49:23 — add helper methods
+2025-07-30 16:50:16 — fix memory leak
