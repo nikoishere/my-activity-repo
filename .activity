@@ -3148,3 +3148,4 @@
 2025-07-31 10:00:00 — rename variables for clarity
 2025-07-31 10:02:43 — add example usage
 2025-07-31 10:07:06 — implement core logic
+2025-07-31 10:07:27 — optimize loop performance
