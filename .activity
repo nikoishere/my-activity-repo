@@ -3215,3 +3215,4 @@
 2025-07-31 13:05:08 — fix type mismatch
 2025-07-31 13:09:28 — update dependencies
 2025-07-31 13:10:41 — add test fixtures
+2025-07-31 13:11:28 — refactor test setup
