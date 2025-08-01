@@ -3329,3 +3329,4 @@
 2025-08-01 09:05:49 — add example usage
 2025-08-01 09:06:36 — fix memory leak
 2025-08-01 09:08:08 — fix off-by-one error
+2025-08-01 09:08:50 — tweak logging output
