@@ -3388,3 +3388,4 @@
 2025-08-01 11:46:29 — reorganize file structure
 2025-08-01 11:46:47 — update config defaults
 2025-08-01 11:55:15 — add utility functions
+2025-08-01 11:55:45 — implement service layer
