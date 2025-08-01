@@ -3427,3 +3427,4 @@
 2025-08-01 13:34:09 — bump version
 2025-08-01 13:37:26 — add test fixtures
 2025-08-01 13:38:39 — update README
+2025-08-01 13:42:12 — fix race condition
