@@ -3445,3 +3445,4 @@
 2025-08-01 14:28:42 — fix flaky test
 2025-08-01 14:38:04 — update changelog
 2025-08-01 14:38:18 — add configuration support
+2025-08-01 14:47:51 — add helper methods
