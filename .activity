@@ -3360,3 +3360,4 @@
 2025-08-01 10:29:58 — fix off-by-one error
 2025-08-01 10:34:34 — update dependencies
 2025-08-01 10:38:53 — fix off-by-one error
+2025-08-01 10:38:58 — add integration tests
