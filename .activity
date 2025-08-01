@@ -3398,3 +3398,4 @@
 2025-08-01 12:20:03 — fix type mismatch
 2025-08-01 12:22:52 — rename variables for clarity
 2025-08-01 12:23:29 — fix edge case handling
+2025-08-01 12:32:15 — add helper methods
