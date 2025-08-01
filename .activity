@@ -3361,3 +3361,4 @@
 2025-08-01 10:34:34 — update dependencies
 2025-08-01 10:38:53 — fix off-by-one error
 2025-08-01 10:38:58 — add integration tests
+2025-08-01 10:40:12 — rename variables for clarity
