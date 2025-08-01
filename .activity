@@ -3472,3 +3472,4 @@
 2025-08-01 15:33:34 — bump version
 2025-08-01 15:37:41 — add integration tests
 2025-08-01 15:40:24 — fix type mismatch
+2025-08-01 15:41:36 — fix memory leak
