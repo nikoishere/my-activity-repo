@@ -3366,3 +3366,4 @@
 2025-08-01 10:45:57 — rename variables for clarity
 2025-08-01 10:50:24 — improve variable naming
 2025-08-01 10:55:05 — improve variable naming
+2025-08-01 10:55:10 — fix off-by-one error
