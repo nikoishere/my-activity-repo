@@ -3441,3 +3441,4 @@
 2025-08-01 14:11:47 — minor style fixes
 2025-08-01 14:11:55 — update README
 2025-08-01 14:13:36 — implement core logic
+2025-08-01 14:25:04 — fix null pointer issue
