@@ -3437,3 +3437,4 @@
 2025-08-01 14:01:11 — bump version
 2025-08-01 14:08:37 — add helper methods
 2025-08-01 14:09:45 — add test fixtures
+2025-08-01 14:11:20 — implement error handling
