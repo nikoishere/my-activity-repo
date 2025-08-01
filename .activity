@@ -3343,3 +3343,4 @@
 2025-08-01 09:45:28 — fix memory leak
 2025-08-01 09:49:23 — update changelog
 2025-08-01 09:53:15 — add example usage
+2025-08-01 09:58:54 — refactor test setup
