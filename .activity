@@ -3447,3 +3447,4 @@
 2025-08-01 14:38:18 — add configuration support
 2025-08-01 14:47:51 — add helper methods
 2025-08-01 14:49:03 — fix incorrect calculation
+2025-08-01 14:49:25 — improve test coverage
