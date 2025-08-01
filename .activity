@@ -3327,3 +3327,4 @@
 2025-08-01 09:03:33 — add test fixtures
 2025-08-01 09:03:47 — fix formatting issue
 2025-08-01 09:05:49 — add example usage
+2025-08-01 09:06:36 — fix memory leak
