@@ -3658,3 +3658,4 @@
 2025-08-18 14:13:01 — adjust timeout values
 2025-08-18 14:14:02 — fix broken import
 2025-08-18 14:16:51 — fix off-by-one error
+2025-08-18 14:23:30 — add helper methods
