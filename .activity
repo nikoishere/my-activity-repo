@@ -3547,3 +3547,4 @@
 2025-08-18 09:14:56 — add initial implementation
 2025-08-18 09:18:18 — fix off-by-one error
 2025-08-18 09:18:24 — tweak logging output
+2025-08-18 09:20:27 — simplify logic
