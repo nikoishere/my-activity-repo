@@ -3678,3 +3678,4 @@
 2025-08-18 15:03:11 — fix edge case handling
 2025-08-18 15:06:05 — update changelog
 2025-08-18 15:06:10 — add helper methods
+2025-08-18 15:08:48 — fix broken import
