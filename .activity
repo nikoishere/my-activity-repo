@@ -3688,3 +3688,4 @@
 2025-08-18 15:32:53 — add integration tests
 2025-08-18 15:36:02 — update documentation
 2025-08-18 15:38:01 — add configuration support
+2025-08-18 15:39:48 — fix broken import
