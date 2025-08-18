@@ -3680,3 +3680,4 @@
 2025-08-18 15:06:10 — add helper methods
 2025-08-18 15:08:48 — fix broken import
 2025-08-18 15:12:00 — simplify logic
+2025-08-18 15:14:05 — add unit tests
