@@ -3672,3 +3672,4 @@
 2025-08-18 14:58:46 — add example usage
 2025-08-18 14:59:18 — tweak logging output
 2025-08-18 14:59:24 — add configuration support
+2025-08-18 15:01:01 — simplify logic
