@@ -3690,3 +3690,4 @@
 2025-08-18 15:38:01 — add configuration support
 2025-08-18 15:39:48 — fix broken import
 2025-08-18 15:43:39 — improve test coverage
+2025-08-18 15:47:55 — minor performance improvement
