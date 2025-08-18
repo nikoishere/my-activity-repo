@@ -3638,3 +3638,4 @@
 2025-08-18 13:22:34 — refactor test setup
 2025-08-18 13:29:45 — add integration tests
 2025-08-18 13:29:54 — fix typo in variable name
+2025-08-18 13:30:04 — simplify logic
