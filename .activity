@@ -3580,3 +3580,4 @@
 2025-08-18 10:42:05 — implement caching layer
 2025-08-18 10:46:49 — refactor test setup
 2025-08-18 10:50:01 — tweak logging output
+2025-08-18 10:54:37 — fix race condition
