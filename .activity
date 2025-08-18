@@ -3691,3 +3691,4 @@
 2025-08-18 15:39:48 — fix broken import
 2025-08-18 15:43:39 — improve test coverage
 2025-08-18 15:47:55 — minor performance improvement
+2025-08-18 15:47:58 — fix edge case handling
