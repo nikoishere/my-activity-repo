@@ -3714,3 +3714,4 @@
 2025-08-18 16:46:14 — fix null pointer issue
 2025-08-18 16:53:01 — remove redundant code
 2025-08-18 16:53:24 — minor code cleanup
+2025-08-18 16:53:57 — update config defaults
