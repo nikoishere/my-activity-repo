@@ -3695,3 +3695,4 @@
 2025-08-18 15:54:58 — update documentation
 2025-08-18 15:57:24 — add configuration support
 2025-08-18 16:07:25 — tweak logging output
+2025-08-18 16:08:18 — optimize loop performance
