@@ -3555,3 +3555,4 @@
 2025-08-18 09:36:13 — fix broken import
 2025-08-18 09:42:36 — fix flaky test
 2025-08-18 09:43:05 — add example usage
+2025-08-18 09:43:21 — update error messages
