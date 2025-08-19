@@ -3792,3 +3792,4 @@
 2025-08-19 11:10:19 — fix type mismatch
 2025-08-19 11:15:42 — update dependencies
 2025-08-19 11:19:43 — fix off-by-one error
+2025-08-19 11:20:42 — minor code cleanup
