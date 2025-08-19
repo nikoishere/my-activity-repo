@@ -3732,3 +3732,4 @@
 2025-08-18 17:32:24 — update config defaults
 2025-08-18 17:35:17 — minor style fixes
 2025-08-18 17:37:32 — update changelog
+2025-08-18 17:38:59 — fix off-by-one error
