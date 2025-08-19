@@ -3791,3 +3791,4 @@
 2025-08-19 11:10:13 — extract reusable components
 2025-08-19 11:10:19 — fix type mismatch
 2025-08-19 11:15:42 — update dependencies
+2025-08-19 11:19:43 — fix off-by-one error
