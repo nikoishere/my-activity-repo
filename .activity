@@ -3863,3 +3863,4 @@
 2025-08-19 14:33:58 — fix off-by-one error
 2025-08-19 14:34:59 — add utility functions
 2025-08-19 14:38:37 — improve test coverage
+2025-08-19 14:39:44 — tweak logging output
