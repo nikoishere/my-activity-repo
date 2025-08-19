@@ -3871,3 +3871,4 @@
 2025-08-19 14:50:41 — add example usage
 2025-08-19 14:51:34 — fix typo in variable name
 2025-08-19 14:57:40 — fix type mismatch
+2025-08-19 14:57:51 — fix memory leak
