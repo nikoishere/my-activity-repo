@@ -3725,3 +3725,4 @@
 2025-08-18 17:13:13 — fix formatting issue
 2025-08-18 17:15:05 — fix off-by-one error
 2025-08-18 17:19:53 — fix incorrect calculation
+2025-08-18 17:20:26 — tweak logging output
