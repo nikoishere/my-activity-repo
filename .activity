@@ -3727,3 +3727,4 @@
 2025-08-18 17:19:53 — fix incorrect calculation
 2025-08-18 17:20:26 — tweak logging output
 2025-08-18 17:28:55 — add helper methods
+2025-08-18 17:29:06 — fix memory leak
