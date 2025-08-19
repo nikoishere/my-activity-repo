@@ -3864,3 +3864,4 @@
 2025-08-19 14:34:59 — add utility functions
 2025-08-19 14:38:37 — improve test coverage
 2025-08-19 14:39:44 — tweak logging output
+2025-08-19 14:40:21 — fix null pointer issue
