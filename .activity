@@ -3843,3 +3843,4 @@
 2025-08-19 13:36:47 — add integration tests
 2025-08-19 13:40:40 — add initial implementation
 2025-08-19 13:42:35 — fix type mismatch
+2025-08-19 13:44:07 — implement error handling
