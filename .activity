@@ -3820,3 +3820,4 @@
 2025-08-19 12:27:31 — refactor test setup
 2025-08-19 12:32:37 — tweak logging output
 2025-08-19 12:35:26 — fix memory leak
+2025-08-19 12:38:11 — add configuration support
