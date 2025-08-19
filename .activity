@@ -3782,3 +3782,4 @@
 2025-08-19 10:44:39 — add test fixtures
 2025-08-19 10:44:53 — update config defaults
 2025-08-19 10:46:40 — add utility functions
+2025-08-19 10:52:27 — fix null pointer issue
