@@ -3897,3 +3897,4 @@
 2025-08-19 16:02:39 — bump version
 2025-08-19 16:07:17 — update config defaults
 2025-08-19 16:09:24 — implement retry mechanism
+2025-08-19 16:18:47 — simplify logic
