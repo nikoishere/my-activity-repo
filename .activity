@@ -3858,3 +3858,4 @@
 2025-08-19 14:14:31 — minor performance improvement
 2025-08-19 14:14:53 — refactor test setup
 2025-08-19 14:20:48 — fix broken import
+2025-08-19 14:25:05 — fix memory leak
