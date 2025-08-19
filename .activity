@@ -3788,3 +3788,4 @@
 2025-08-19 11:03:54 — add initial implementation
 2025-08-19 11:05:15 — implement service layer
 2025-08-19 11:06:38 — fix broken import
+2025-08-19 11:10:13 — extract reusable components
