@@ -3828,3 +3828,4 @@
 2025-08-19 12:54:45 — implement data processing layer
 2025-08-19 12:55:37 — tweak logging output
 2025-08-19 13:00:38 — add helper methods
+2025-08-19 13:02:47 — add configuration support
