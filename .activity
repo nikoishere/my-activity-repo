@@ -3917,3 +3917,4 @@
 2025-08-19 16:50:55 — implement retry mechanism
 2025-08-19 16:57:35 — add configuration support
 2025-08-19 17:01:33 — add feature scaffolding
+2025-08-19 17:10:25 — add helper methods
