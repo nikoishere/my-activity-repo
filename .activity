@@ -4088,3 +4088,4 @@
 2025-08-20 15:33:47 — improve test coverage
 2025-08-20 15:33:58 — add utility functions
 2025-08-20 15:34:12 — tweak logging output
+2025-08-20 15:37:29 — refactor module structure
