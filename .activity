@@ -4218,3 +4218,4 @@
 2025-08-21 12:24:50 — bump version
 2025-08-21 12:27:57 — update config defaults
 2025-08-21 12:35:20 — clean up code style
+2025-08-21 12:35:44 — rename variables for clarity
