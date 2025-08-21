@@ -4170,3 +4170,4 @@
 2025-08-21 10:12:38 — add test fixtures
 2025-08-21 10:12:46 — fix broken import
 2025-08-21 10:15:03 — refactor module structure
+2025-08-21 10:17:28 — refactor test setup
