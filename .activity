@@ -4172,3 +4172,4 @@
 2025-08-21 10:15:03 — refactor module structure
 2025-08-21 10:17:28 — refactor test setup
 2025-08-21 10:18:11 — rename variables for clarity
+2025-08-21 10:20:40 — fix off-by-one error
