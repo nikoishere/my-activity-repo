@@ -4153,3 +4153,4 @@
 2025-08-21 09:32:52 — bump version
 2025-08-21 09:36:29 — add feature scaffolding
 2025-08-21 09:38:06 — minor style fixes
+2025-08-21 09:48:30 — fix off-by-one error
