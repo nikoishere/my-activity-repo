@@ -4226,3 +4226,4 @@
 2025-08-21 12:50:50 — implement service layer
 2025-08-21 12:55:21 — add example usage
 2025-08-21 12:55:22 — implement retry mechanism
+2025-08-21 12:58:39 — fix off-by-one error
