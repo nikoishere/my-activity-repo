@@ -4502,3 +4502,4 @@
 2025-08-22 16:14:49 — add integration tests
 2025-08-22 16:23:36 — improve code readability
 2025-08-22 16:27:55 — tweak logging output
+2025-08-22 16:28:17 — fix null pointer issue
