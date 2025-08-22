@@ -4460,3 +4460,4 @@
 2025-08-22 14:09:25 — update config defaults
 2025-08-22 14:09:25 — add feature scaffolding
 2025-08-22 14:09:43 — fix flaky test
+2025-08-22 14:13:36 — fix edge case handling
