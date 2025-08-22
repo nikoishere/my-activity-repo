@@ -4450,3 +4450,4 @@
 2025-08-22 13:56:44 — rename variables for clarity
 2025-08-22 13:58:13 — improve test coverage
 2025-08-22 13:58:38 — fix memory leak
+2025-08-22 14:01:13 — update error messages
