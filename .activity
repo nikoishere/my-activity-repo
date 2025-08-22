@@ -4492,3 +4492,4 @@
 2025-08-22 15:44:15 — tweak logging output
 2025-08-22 15:49:53 — implement core logic
 2025-08-22 15:51:48 — fix memory leak
+2025-08-22 15:54:45 — fix off-by-one error
