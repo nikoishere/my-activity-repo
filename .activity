@@ -4406,3 +4406,4 @@
 2025-08-22 11:47:39 — fix edge case handling
 2025-08-22 11:51:24 — improve test coverage
 2025-08-22 12:08:15 — minor performance improvement
+2025-08-22 12:10:31 — add utility functions
