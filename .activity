@@ -4620,3 +4620,4 @@
 2025-08-27 12:20:25 — update config defaults
 2025-08-27 12:23:34 — extract reusable components
 2025-08-27 12:26:09 — update dependencies
+2025-08-27 12:27:06 — fix type mismatch
