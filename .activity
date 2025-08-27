@@ -4696,3 +4696,4 @@
 2025-08-27 15:51:45 — minor style fixes
 2025-08-27 15:55:30 — fix null pointer issue
 2025-08-27 15:57:57 — minor performance improvement
+2025-08-27 15:58:00 — add helper methods
