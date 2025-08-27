@@ -4552,3 +4552,4 @@
 2025-08-27 09:21:55 — improve variable naming
 2025-08-27 09:29:53 — improve code readability
 2025-08-27 09:30:29 — bump version
+2025-08-27 09:31:41 — fix off-by-one error
