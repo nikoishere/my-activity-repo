@@ -4768,3 +4768,4 @@
 2025-09-02 09:44:10 — fix race condition
 2025-09-02 09:46:06 — fix edge case handling
 2025-09-02 09:47:39 — fix race condition
+2025-09-02 09:51:30 — simplify logic
