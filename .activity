@@ -4789,3 +4789,4 @@
 2025-09-02 10:43:45 — fix formatting issue
 2025-09-02 10:47:53 — remove redundant code
 2025-09-02 10:51:45 — fix flaky test
+2025-09-02 10:54:44 — add helper methods
