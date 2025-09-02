@@ -4859,3 +4859,4 @@
 2025-09-02 13:46:37 — bump version
 2025-09-02 13:54:26 — fix incorrect calculation
 2025-09-02 13:54:39 — add unit tests
+2025-09-02 14:01:25 — add utility functions
