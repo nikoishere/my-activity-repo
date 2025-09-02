@@ -4887,3 +4887,4 @@
 2025-09-02 15:04:30 — fix broken import
 2025-09-02 15:06:38 — minor code cleanup
 2025-09-02 15:09:35 — add feature scaffolding
+2025-09-02 15:12:27 — fix memory leak
