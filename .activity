@@ -4822,3 +4822,4 @@
 2025-09-02 12:17:55 — add helper methods
 2025-09-02 12:20:03 — simplify logic
 2025-09-02 12:21:36 — add test fixtures
+2025-09-02 12:24:05 — fix incorrect calculation
