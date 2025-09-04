@@ -5073,3 +5073,4 @@
 2025-09-04 14:21:28 — add test fixtures
 2025-09-04 14:24:46 — fix broken import
 2025-09-04 14:27:43 — rename variables for clarity
+2025-09-04 14:28:10 — fix off-by-one error
