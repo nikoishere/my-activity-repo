@@ -4968,3 +4968,4 @@
 2025-09-04 09:50:58 — fix memory leak
 2025-09-04 09:51:13 — tweak logging output
 2025-09-04 09:55:53 — update dependencies
+2025-09-04 09:56:17 — add example usage
