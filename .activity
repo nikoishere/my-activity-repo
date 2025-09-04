@@ -5086,3 +5086,4 @@
 2025-09-04 15:02:43 — extract reusable components
 2025-09-04 15:06:05 — bump version
 2025-09-04 15:08:34 — fix type mismatch
+2025-09-04 15:08:35 — fix broken import
