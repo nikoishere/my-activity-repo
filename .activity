@@ -5122,3 +5122,4 @@
 2025-09-04 16:42:56 — update config defaults
 2025-09-04 16:45:42 — minor performance improvement
 2025-09-04 16:45:56 — fix memory leak
+2025-09-04 16:46:28 — fix typo in variable name
