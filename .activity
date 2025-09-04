@@ -5053,3 +5053,4 @@
 2025-09-04 13:35:00 — reorganize file structure
 2025-09-04 13:36:08 — remove redundant code
 2025-09-04 13:40:19 — fix incorrect calculation
+2025-09-04 13:42:42 — fix off-by-one error
