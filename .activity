@@ -5275,3 +5275,4 @@
 2025-09-08 14:24:14 — update config defaults
 2025-09-08 14:28:42 — rename variables for clarity
 2025-09-08 14:32:42 — fix type mismatch
+2025-09-08 14:37:00 — add validation logic
