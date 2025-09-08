@@ -5284,3 +5284,4 @@
 2025-09-08 14:48:47 — add example usage
 2025-09-08 14:49:38 — fix off-by-one error
 2025-09-08 14:51:54 — fix flaky test
+2025-09-08 14:55:21 — refactor test setup
