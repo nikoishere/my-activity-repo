@@ -5498,3 +5498,4 @@
 2025-09-12 15:25:30 — add helper methods
 2025-09-12 15:32:45 — adjust timeout values
 2025-09-12 15:33:09 — bump version
+2025-09-12 15:33:53 — fix edge case handling
