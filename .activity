@@ -5389,3 +5389,4 @@
 2025-09-12 10:21:01 — update changelog
 2025-09-12 10:25:49 — adjust timeout values
 2025-09-12 10:31:08 — add integration tests
+2025-09-12 10:33:30 — add utility functions
