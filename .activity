@@ -5491,3 +5491,4 @@
 2025-09-12 15:02:57 — remove redundant code
 2025-09-12 15:07:02 — add example usage
 2025-09-12 15:10:42 — add unit tests
+2025-09-12 15:10:58 — implement core logic
