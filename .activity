@@ -5468,3 +5468,4 @@
 2025-09-12 13:59:35 — implement service layer
 2025-09-12 14:00:22 — fix null pointer issue
 2025-09-12 14:00:46 — clean up code style
+2025-09-12 14:01:37 — update error messages
