@@ -5449,3 +5449,4 @@
 2025-09-12 13:11:33 — fix typo in variable name
 2025-09-12 13:12:25 — tweak logging output
 2025-09-12 13:13:21 — add configuration support
+2025-09-12 13:13:41 — add test fixtures
