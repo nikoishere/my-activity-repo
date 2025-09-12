@@ -5355,3 +5355,4 @@
 2025-09-10 09:00:28 — update documentation
 2025-09-11 09:36:50 — add initial implementation
 2025-09-12 09:00:29 — add configuration support
+2025-09-12 09:02:40 — refactor module structure
