@@ -5545,3 +5545,4 @@
 2025-09-12 17:43:33 — rename variables for clarity
 2025-09-12 17:44:01 — implement caching layer
 2025-09-12 17:44:30 — bump version
+2025-09-12 17:46:03 — improve test coverage
