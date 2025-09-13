@@ -5548,3 +5548,4 @@
 2025-09-12 17:46:03 — improve test coverage
 2025-09-12 17:46:17 — fix type mismatch
 2025-09-12 17:47:37 — update changelog
+2025-09-12 17:49:31 — fix off-by-one error
