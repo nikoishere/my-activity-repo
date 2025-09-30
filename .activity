@@ -5595,3 +5595,4 @@
 2025-09-30 09:54:01 — fix race condition
 2025-09-30 09:59:51 — minor style fixes
 2025-09-30 10:09:47 — update config defaults
+2025-09-30 10:12:08 — add integration tests
