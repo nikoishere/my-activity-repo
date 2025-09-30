@@ -5716,3 +5716,4 @@
 2025-09-30 15:28:14 — implement retry mechanism
 2025-09-30 15:29:22 — add unit tests
 2025-09-30 15:29:59 — fix broken import
+2025-09-30 15:32:03 — add example usage
