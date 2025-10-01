@@ -5900,3 +5900,4 @@
 2025-10-01 14:43:56 — fix broken import
 2025-10-01 14:46:07 — fix memory leak
 2025-10-01 14:46:31 — add feature scaffolding
+2025-10-01 14:47:14 — add utility functions
