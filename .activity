@@ -5918,3 +5918,4 @@
 2025-10-01 15:14:19 — update dependencies
 2025-10-01 15:17:58 — improve variable naming
 2025-10-01 15:20:41 — minor code cleanup
+2025-10-01 15:21:41 — fix edge case handling
