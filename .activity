@@ -5931,3 +5931,4 @@
 2025-10-01 16:10:46 — minor code cleanup
 2025-10-01 16:12:09 — add configuration support
 2025-10-01 16:12:57 — adjust timeout values
+2025-10-01 16:14:20 — tweak logging output
