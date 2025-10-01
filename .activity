@@ -5854,3 +5854,4 @@
 2025-10-01 12:42:22 — fix flaky test
 2025-10-01 12:44:16 — fix off-by-one error
 2025-10-01 12:47:14 — add unit tests
+2025-10-01 12:48:40 — fix edge case handling
