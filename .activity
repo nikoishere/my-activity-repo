@@ -5936,3 +5936,4 @@
 2025-10-01 16:21:59 — improve variable naming
 2025-10-01 16:24:04 — add integration tests
 2025-10-01 16:24:20 — tweak logging output
+2025-10-01 16:24:33 — fix null pointer issue
