@@ -5797,3 +5797,4 @@
 2025-10-01 10:00:52 — tweak logging output
 2025-10-01 10:02:57 — fix memory leak
 2025-10-01 10:04:59 — add test fixtures
+2025-10-01 10:05:32 — update config defaults
