@@ -5796,3 +5796,4 @@
 2025-10-01 09:57:24 — fix broken import
 2025-10-01 10:00:52 — tweak logging output
 2025-10-01 10:02:57 — fix memory leak
+2025-10-01 10:04:59 — add test fixtures
