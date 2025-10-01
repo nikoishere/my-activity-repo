@@ -5824,3 +5824,4 @@
 2025-10-01 11:16:01 — fix type mismatch
 2025-10-01 11:16:51 — add integration tests
 2025-10-01 11:19:39 — update documentation
+2025-10-01 11:19:51 — fix incorrect calculation
