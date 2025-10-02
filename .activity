@@ -6107,3 +6107,4 @@
 2025-10-02 14:54:08 — fix race condition
 2025-10-02 15:00:15 — rename variables for clarity
 2025-10-02 15:10:55 — simplify logic
+2025-10-02 15:13:10 — fix off-by-one error
