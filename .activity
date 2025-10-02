@@ -6095,3 +6095,4 @@
 2025-10-02 14:22:51 — fix off-by-one error
 2025-10-02 14:23:06 — add initial implementation
 2025-10-02 14:27:42 — update error messages
+2025-10-02 14:33:06 — add test fixtures
