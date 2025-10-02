@@ -6137,3 +6137,4 @@
 2025-10-02 16:11:13 — fix edge case handling
 2025-10-02 16:15:09 — update config defaults
 2025-10-02 16:16:54 — fix flaky test
+2025-10-02 16:23:32 — fix memory leak
