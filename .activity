@@ -6162,3 +6162,4 @@
 2025-10-02 17:20:05 — fix flaky test
 2025-10-02 17:21:07 — refactor module structure
 2025-10-02 17:21:49 — update error messages
+2025-10-02 17:23:09 — simplify logic
