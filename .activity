@@ -6170,3 +6170,4 @@
 2025-10-02 17:47:19 — minor code cleanup
 2025-10-02 17:53:26 — bump version
 2025-10-02 17:55:54 — update changelog
+2025-10-02 17:57:10 — fix memory leak
