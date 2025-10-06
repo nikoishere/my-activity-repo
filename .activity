@@ -6236,3 +6236,4 @@
 2025-10-06 11:41:10 — add example usage
 2025-10-06 11:43:27 — fix off-by-one error
 2025-10-06 11:44:08 — extract reusable components
+2025-10-06 11:46:56 — improve test coverage
