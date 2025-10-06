@@ -6340,3 +6340,4 @@
 2025-10-06 16:15:51 — minor performance improvement
 2025-10-06 16:16:17 — update config defaults
 2025-10-06 16:18:23 — implement core logic
+2025-10-06 16:22:15 — fix edge case handling
