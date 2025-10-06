@@ -6218,3 +6218,4 @@
 2025-10-06 10:46:11 — fix broken import
 2025-10-06 10:57:28 — bump version
 2025-10-06 10:57:50 — implement error handling
+2025-10-06 10:58:45 — fix null pointer issue
