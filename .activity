@@ -6201,3 +6201,4 @@
 2025-10-06 10:15:57 — add unit tests
 2025-10-06 10:21:05 — fix broken import
 2025-10-06 10:22:19 — fix race condition
+2025-10-06 10:25:27 — simplify logic
