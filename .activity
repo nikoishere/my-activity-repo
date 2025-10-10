@@ -6448,3 +6448,4 @@
 2025-10-10 12:07:31 — add initial implementation
 2025-10-10 12:13:02 — update changelog
 2025-10-10 12:13:47 — add unit tests
+2025-10-10 12:15:51 — fix memory leak
