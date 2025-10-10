@@ -6451,3 +6451,4 @@
 2025-10-10 12:15:51 — fix memory leak
 2025-10-10 12:16:37 — add validation logic
 2025-10-10 12:19:24 — update config defaults
+2025-10-10 12:19:35 — reorganize file structure
