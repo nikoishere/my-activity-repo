@@ -6438,3 +6438,4 @@
 2025-10-10 11:30:08 — refactor module structure
 2025-10-10 11:41:05 — minor style fixes
 2025-10-10 11:42:07 — implement core logic
+2025-10-10 11:43:48 — fix broken import
