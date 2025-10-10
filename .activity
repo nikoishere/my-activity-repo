@@ -6393,3 +6393,4 @@
 2025-10-10 09:31:18 — tweak logging output
 2025-10-10 09:33:08 — update changelog
 2025-10-10 09:35:09 — fix memory leak
+2025-10-10 09:38:35 — simplify logic
