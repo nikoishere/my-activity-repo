@@ -6429,3 +6429,4 @@
 2025-10-10 11:10:40 — fix broken import
 2025-10-10 11:13:16 — fix broken import
 2025-10-10 11:16:54 — fix edge case handling
+2025-10-10 11:18:55 — improve test coverage
