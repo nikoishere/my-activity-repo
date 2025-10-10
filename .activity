@@ -6530,3 +6530,4 @@
 2025-10-10 15:50:53 — add utility functions
 2025-10-10 15:53:49 — clean up code style
 2025-10-10 15:54:13 — add example usage
+2025-10-10 15:54:59 — fix type mismatch
