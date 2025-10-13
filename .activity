@@ -6595,3 +6595,4 @@
 2025-10-13 09:28:19 — implement error handling
 2025-10-13 09:38:11 — add helper methods
 2025-10-13 09:38:47 — bump version
+2025-10-13 09:39:46 — fix broken import
