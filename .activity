@@ -6668,3 +6668,4 @@
 2025-10-13 12:50:56 — implement core logic
 2025-10-13 12:53:51 — update README
 2025-10-13 12:59:18 — add integration tests
+2025-10-13 13:04:12 — refactor test setup
