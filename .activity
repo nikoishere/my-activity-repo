@@ -6743,3 +6743,4 @@
 2025-10-13 16:16:31 — add example usage
 2025-10-13 16:24:44 — update documentation
 2025-10-13 16:26:17 — fix memory leak
+2025-10-13 16:26:23 — fix null pointer issue
