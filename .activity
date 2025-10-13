@@ -6597,3 +6597,4 @@
 2025-10-13 09:38:47 — bump version
 2025-10-13 09:39:46 — fix broken import
 2025-10-13 09:44:14 — tweak logging output
+2025-10-13 09:44:30 — fix typo in variable name
