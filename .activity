@@ -6778,3 +6778,4 @@
 2025-10-13 17:50:20 — fix edge case handling
 2025-10-13 17:50:43 — fix broken import
 2025-10-13 17:52:48 — extract reusable components
+2025-10-13 17:58:08 — add utility functions
