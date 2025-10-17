@@ -6902,3 +6902,4 @@
 2025-10-17 14:21:00 — remove redundant code
 2025-10-17 14:24:42 — tweak logging output
 2025-10-17 14:24:45 — refactor test setup
+2025-10-17 14:29:12 — add helper methods
