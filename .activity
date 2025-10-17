@@ -6904,3 +6904,4 @@
 2025-10-17 14:24:45 — refactor test setup
 2025-10-17 14:29:12 — add helper methods
 2025-10-17 14:32:25 — simplify logic
+2025-10-17 14:40:10 — adjust timeout values
