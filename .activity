@@ -6957,3 +6957,4 @@
 2025-10-17 16:44:28 — fix edge case handling
 2025-10-17 16:51:17 — minor code cleanup
 2025-10-17 16:52:09 — update documentation
+2025-10-17 16:59:23 — add configuration support
