@@ -6928,3 +6928,4 @@
 2025-10-17 15:36:53 — fix type mismatch
 2025-10-17 15:39:23 — fix edge case handling
 2025-10-17 15:39:40 — update changelog
+2025-10-17 15:40:44 — simplify logic
