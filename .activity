@@ -6934,3 +6934,4 @@
 2025-10-17 15:50:49 — add helper methods
 2025-10-17 15:51:26 — adjust timeout values
 2025-10-17 15:53:52 — update config defaults
+2025-10-17 15:54:45 — fix null pointer issue
