@@ -6790,3 +6790,4 @@
 2025-10-17 09:20:18 — remove redundant code
 2025-10-17 09:20:24 — update config defaults
 2025-10-17 09:22:42 — bump version
+2025-10-17 09:24:15 — add integration tests
