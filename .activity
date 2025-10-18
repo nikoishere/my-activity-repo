@@ -6971,3 +6971,4 @@
 2025-10-17 17:29:48 — adjust timeout values
 2025-10-17 17:30:46 — update changelog
 2025-10-17 17:34:00 — fix race condition
+2025-10-17 17:35:10 — add helper methods
