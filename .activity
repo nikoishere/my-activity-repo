@@ -7010,3 +7010,4 @@
 2025-10-21 09:59:14 — reorganize file structure
 2025-10-21 10:08:42 — implement data processing layer
 2025-10-21 10:08:49 — add validation logic
+2025-10-21 10:12:49 — add helper methods
