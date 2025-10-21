@@ -7143,3 +7143,4 @@
 2025-10-21 15:58:23 — refactor module structure
 2025-10-21 16:00:32 — minor style fixes
 2025-10-21 16:00:36 — fix off-by-one error
+2025-10-21 16:02:21 — update config defaults
