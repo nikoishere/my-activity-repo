@@ -7027,3 +7027,4 @@
 2025-10-21 10:51:38 — add unit tests
 2025-10-21 10:52:36 — add initial implementation
 2025-10-21 10:53:46 — fix null pointer issue
+2025-10-21 10:54:11 — fix edge case handling
