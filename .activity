@@ -7047,3 +7047,4 @@
 2025-10-21 11:41:35 — fix incorrect calculation
 2025-10-21 11:45:08 — tweak logging output
 2025-10-21 11:48:02 — add example usage
+2025-10-21 11:50:24 — implement service layer
