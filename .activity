@@ -7132,3 +7132,4 @@
 2025-10-21 15:36:08 — fix broken import
 2025-10-21 15:37:10 — add feature scaffolding
 2025-10-21 15:41:07 — update config defaults
+2025-10-21 15:43:00 — fix null pointer issue
