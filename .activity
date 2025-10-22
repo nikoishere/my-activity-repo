@@ -7349,3 +7349,4 @@
 2025-10-22 16:28:52 — add utility functions
 2025-10-22 16:32:02 — update dependencies
 2025-10-22 16:32:46 — bump version
+2025-10-22 16:32:48 — fix memory leak
