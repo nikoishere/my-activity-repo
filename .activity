@@ -7427,3 +7427,4 @@
 2025-10-23 10:44:36 — improve test coverage
 2025-10-23 10:45:10 — add helper methods
 2025-10-23 10:45:12 — add unit tests
+2025-10-23 10:49:02 — fix null pointer issue
