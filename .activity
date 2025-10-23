@@ -7425,3 +7425,4 @@
 2025-10-23 10:42:56 — add example usage
 2025-10-23 10:43:12 — fix memory leak
 2025-10-23 10:44:36 — improve test coverage
+2025-10-23 10:45:10 — add helper methods
