@@ -7502,3 +7502,4 @@
 2025-10-23 14:11:19 — minor style fixes
 2025-10-23 14:16:49 — fix incorrect calculation
 2025-10-23 14:17:45 — fix flaky test
+2025-10-23 14:18:08 — tweak logging output
