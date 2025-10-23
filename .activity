@@ -7509,3 +7509,4 @@
 2025-10-23 14:32:56 — update documentation
 2025-10-23 14:35:45 — minor style fixes
 2025-10-23 14:35:56 — bump version
+2025-10-23 14:37:28 — fix race condition
