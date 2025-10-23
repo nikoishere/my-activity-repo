@@ -7522,3 +7522,4 @@
 2025-10-23 15:01:54 — fix broken import
 2025-10-23 15:02:27 — improve test coverage
 2025-10-23 15:08:43 — minor style fixes
+2025-10-23 15:13:26 — fix type mismatch
