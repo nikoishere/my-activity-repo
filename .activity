@@ -7595,3 +7595,4 @@
 2025-10-31 09:09:16 — add example usage
 2025-11-01 09:41:22 — add feature scaffolding
 2025-11-02 09:17:22 — implement caching layer
+2025-11-03 09:02:57 — fix broken import
