@@ -7685,3 +7685,4 @@
 2025-11-11 12:32:33 — fix memory leak
 2025-11-11 12:35:37 — tweak logging output
 2025-11-11 12:36:31 — add example usage
+2025-11-11 12:38:11 — implement error handling
