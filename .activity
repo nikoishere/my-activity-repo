@@ -7642,3 +7642,4 @@
 2025-11-11 10:40:10 — improve code readability
 2025-11-11 10:41:09 — fix flaky test
 2025-11-11 10:41:33 — add example usage
+2025-11-11 10:46:27 — reorganize file structure
