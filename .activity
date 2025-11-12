@@ -7804,3 +7804,4 @@
 2025-11-11 17:55:12 — remove redundant code
 2025-11-11 17:59:29 — reorganize file structure
 2025-11-12 09:01:46 — add configuration support
+2025-11-12 09:01:57 — improve test coverage
