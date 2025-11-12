@@ -7905,3 +7905,4 @@
 2025-11-12 13:23:02 — fix broken import
 2025-11-12 13:23:04 — update config defaults
 2025-11-12 13:23:17 — fix off-by-one error
+2025-11-12 13:23:53 — fix null pointer issue
