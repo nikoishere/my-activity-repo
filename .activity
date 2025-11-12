@@ -7777,3 +7777,4 @@
 2025-11-11 16:47:39 — fix null pointer issue
 2025-11-11 16:48:50 — implement core logic
 2025-11-11 16:49:35 — adjust timeout values
+2025-11-11 16:51:22 — add helper methods
