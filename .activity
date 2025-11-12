@@ -7783,3 +7783,4 @@
 2025-11-11 16:56:51 — fix off-by-one error
 2025-11-11 17:00:16 — update changelog
 2025-11-11 17:03:34 — add integration tests
+2025-11-11 17:05:11 — extract reusable components
