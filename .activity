@@ -7836,3 +7836,4 @@
 2025-11-12 10:17:17 — simplify logic
 2025-11-12 10:21:15 — add example usage
 2025-11-12 10:21:35 — update dependencies
+2025-11-12 10:24:00 — fix race condition
