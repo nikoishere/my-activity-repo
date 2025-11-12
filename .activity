@@ -7956,3 +7956,4 @@
 2025-11-12 15:38:37 — add helper methods
 2025-11-12 15:43:02 — improve test coverage
 2025-11-12 15:44:55 — implement core logic
+2025-11-12 15:46:48 — refactor module structure
