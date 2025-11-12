@@ -7849,3 +7849,4 @@
 2025-11-12 10:51:53 — add configuration support
 2025-11-12 10:55:41 — fix memory leak
 2025-11-12 11:01:14 — implement core logic
+2025-11-12 11:12:02 — add example usage
