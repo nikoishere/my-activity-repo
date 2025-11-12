@@ -7782,3 +7782,4 @@
 2025-11-11 16:52:09 — minor code cleanup
 2025-11-11 16:56:51 — fix off-by-one error
 2025-11-11 17:00:16 — update changelog
+2025-11-11 17:03:34 — add integration tests
