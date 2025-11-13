@@ -7972,3 +7972,4 @@
 2025-11-12 16:23:33 — add integration tests
 2025-11-12 16:23:47 — add integration tests
 2025-11-12 16:26:17 — add helper methods
+2025-11-12 16:27:06 — fix off-by-one error
