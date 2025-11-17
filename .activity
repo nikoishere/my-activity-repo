@@ -8054,3 +8054,4 @@
 2025-11-17 10:57:33 — fix broken import
 2025-11-17 11:10:20 — tweak logging output
 2025-11-17 11:13:07 — add example usage
+2025-11-17 11:13:46 — minor performance improvement
