@@ -8239,3 +8239,4 @@
 2025-11-18 10:25:33 — tweak logging output
 2025-11-18 10:28:27 — add integration tests
 2025-11-18 10:36:37 — remove redundant code
+2025-11-18 10:37:16 — add helper methods
