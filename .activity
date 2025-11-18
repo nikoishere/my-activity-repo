@@ -8350,3 +8350,4 @@
 2025-11-18 15:14:53 — fix memory leak
 2025-11-18 15:16:30 — update changelog
 2025-11-18 15:21:19 — fix race condition
+2025-11-18 15:21:41 — implement error handling
