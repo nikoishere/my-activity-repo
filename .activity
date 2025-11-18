@@ -8241,3 +8241,4 @@
 2025-11-18 10:36:37 — remove redundant code
 2025-11-18 10:37:16 — add helper methods
 2025-11-18 10:37:35 — add configuration support
+2025-11-18 10:39:04 — add integration tests
