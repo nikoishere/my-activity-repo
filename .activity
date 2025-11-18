@@ -8247,3 +8247,4 @@
 2025-11-18 10:44:17 — fix edge case handling
 2025-11-18 10:45:35 — fix memory leak
 2025-11-18 10:46:50 — fix memory leak
+2025-11-18 10:47:01 — add helper methods
