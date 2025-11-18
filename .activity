@@ -8176,3 +8176,4 @@
 2025-11-17 16:29:00 — minor performance improvement
 2025-11-17 16:36:41 — remove redundant code
 2025-11-17 16:40:56 — add helper methods
+2025-11-17 16:41:42 — add configuration support
