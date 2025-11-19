@@ -8475,3 +8475,4 @@
 2025-11-19 11:54:45 — fix broken import
 2025-11-19 11:59:37 — reorganize file structure
 2025-11-19 12:00:14 — add integration tests
+2025-11-19 12:00:17 — fix off-by-one error
