@@ -8469,3 +8469,4 @@
 2025-11-19 11:39:46 — fix broken import
 2025-11-19 11:44:27 — update documentation
 2025-11-19 11:46:03 — add configuration support
+2025-11-19 11:48:25 — add unit tests
