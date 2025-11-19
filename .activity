@@ -8393,3 +8393,4 @@
 2025-11-18 17:05:08 — add validation logic
 2025-11-18 17:09:15 — bump version
 2025-11-18 17:12:29 — tweak logging output
+2025-11-18 17:16:05 — add integration tests
