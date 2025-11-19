@@ -8498,3 +8498,4 @@
 2025-11-19 12:59:47 — fix formatting issue
 2025-11-19 13:02:39 — add integration tests
 2025-11-19 13:02:53 — add utility functions
+2025-11-19 13:03:31 — add configuration support
