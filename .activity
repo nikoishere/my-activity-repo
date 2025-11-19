@@ -8466,3 +8466,4 @@
 2025-11-19 11:24:42 — tweak logging output
 2025-11-19 11:29:23 — add initial implementation
 2025-11-19 11:37:57 — update changelog
+2025-11-19 11:39:46 — fix broken import
