@@ -8478,3 +8478,4 @@
 2025-11-19 12:00:17 — fix off-by-one error
 2025-11-19 12:06:01 — adjust timeout values
 2025-11-19 12:09:27 — adjust timeout values
+2025-11-19 12:10:09 — add helper methods
