@@ -8497,3 +8497,4 @@
 2025-11-19 12:58:39 — fix incorrect calculation
 2025-11-19 12:59:47 — fix formatting issue
 2025-11-19 13:02:39 — add integration tests
+2025-11-19 13:02:53 — add utility functions
