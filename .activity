@@ -8587,3 +8587,4 @@
 2025-11-19 16:59:31 — fix race condition
 2025-11-19 17:00:44 — implement core logic
 2025-11-19 17:00:50 — bump version
+2025-11-19 17:03:49 — improve test coverage
