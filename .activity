@@ -8580,3 +8580,4 @@
 2025-11-19 16:44:04 — fix race condition
 2025-11-19 16:44:30 — bump version
 2025-11-19 16:47:21 — minor performance improvement
+2025-11-19 16:49:17 — add test fixtures
