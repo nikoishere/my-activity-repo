@@ -8618,3 +8618,4 @@
 2025-11-20 09:30:12 — fix typo in variable name
 2025-11-20 09:37:32 — add example usage
 2025-11-20 09:39:01 — fix off-by-one error
+2025-11-20 09:39:11 — fix null pointer issue
