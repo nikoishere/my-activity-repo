@@ -8640,3 +8640,4 @@
 2025-11-20 10:13:18 — update dependencies
 2025-11-20 10:13:55 — minor style fixes
 2025-11-20 10:15:26 — add initial implementation
+2025-11-20 10:16:39 — fix edge case handling
