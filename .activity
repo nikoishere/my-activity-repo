@@ -8727,3 +8727,4 @@
 2025-11-20 14:23:55 — improve test coverage
 2025-11-20 14:25:27 — add helper methods
 2025-11-20 14:29:58 — simplify logic
+2025-11-20 14:40:08 — fix incorrect calculation
