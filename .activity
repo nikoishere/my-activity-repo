@@ -8752,3 +8752,4 @@
 2025-11-20 15:19:50 — add validation logic
 2025-11-20 15:23:50 — update config defaults
 2025-11-20 15:25:30 — add feature scaffolding
+2025-11-20 15:27:22 — refactor test setup
