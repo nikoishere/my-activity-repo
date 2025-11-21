@@ -8788,3 +8788,4 @@
 2025-11-20 17:03:26 — fix race condition
 2025-11-20 17:04:39 — bump version
 2025-11-20 17:10:58 — add unit tests
+2025-11-20 17:16:18 — add example usage
