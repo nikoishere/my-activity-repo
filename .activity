@@ -8861,3 +8861,4 @@
 2025-11-25 11:05:30 — update README
 2025-11-25 11:13:34 — add configuration support
 2025-11-25 11:15:58 — implement core logic
+2025-11-25 11:23:00 — fix memory leak
