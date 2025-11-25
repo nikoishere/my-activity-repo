@@ -8874,3 +8874,4 @@
 2025-11-25 11:44:47 — fix broken import
 2025-11-25 11:46:54 — fix incorrect calculation
 2025-11-25 11:48:26 — add test fixtures
+2025-11-25 11:48:45 — update config defaults
