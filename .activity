@@ -8945,3 +8945,4 @@
 2025-11-25 14:52:35 — bump version
 2025-11-25 14:53:53 — implement retry mechanism
 2025-11-25 14:57:16 — fix race condition
+2025-11-25 15:10:28 — fix edge case handling
