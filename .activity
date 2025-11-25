@@ -8947,3 +8947,4 @@
 2025-11-25 14:57:16 — fix race condition
 2025-11-25 15:10:28 — fix edge case handling
 2025-11-25 15:17:59 — add test fixtures
+2025-11-25 15:19:16 — add example usage
