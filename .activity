@@ -8981,3 +8981,4 @@
 2025-11-25 16:20:39 — fix incorrect calculation
 2025-11-25 16:24:44 — add utility functions
 2025-11-25 16:27:58 — fix typo in variable name
+2025-11-25 16:28:59 — extract reusable components
