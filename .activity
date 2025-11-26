@@ -8973,3 +8973,4 @@
 2025-11-25 16:07:05 — clean up code style
 2025-11-25 16:07:26 — tweak logging output
 2025-11-25 16:07:36 — remove redundant code
+2025-11-25 16:08:17 — add configuration support
