@@ -9241,3 +9241,4 @@
 2025-11-27 10:10:41 — implement error handling
 2025-11-27 10:16:15 — minor code cleanup
 2025-11-27 10:17:55 — update config defaults
+2025-11-27 10:18:40 — add utility functions
