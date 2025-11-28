@@ -9424,3 +9424,4 @@
 2025-11-28 09:31:34 — update README
 2025-11-28 09:31:38 — add utility functions
 2025-11-28 09:38:56 — refactor module structure
+2025-11-28 09:38:59 — fix null pointer issue
