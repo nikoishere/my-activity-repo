@@ -9517,3 +9517,4 @@
 2025-11-28 13:44:03 — rename variables for clarity
 2025-11-28 13:47:08 — tweak logging output
 2025-11-28 13:47:38 — add helper methods
+2025-11-28 13:50:55 — add initial implementation
