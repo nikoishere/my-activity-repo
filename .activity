@@ -9382,3 +9382,4 @@
 2025-11-27 16:38:43 — fix race condition
 2025-11-27 16:39:22 — fix type mismatch
 2025-11-27 16:40:35 — fix broken import
+2025-11-27 16:47:16 — update README
