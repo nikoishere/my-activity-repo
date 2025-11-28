@@ -9523,3 +9523,4 @@
 2025-11-28 13:57:30 — update dependencies
 2025-11-28 13:58:50 — update changelog
 2025-11-28 13:59:42 — fix incorrect calculation
+2025-11-28 14:05:44 — fix edge case handling
