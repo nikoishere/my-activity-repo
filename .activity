@@ -9401,3 +9401,4 @@
 2025-11-27 17:25:08 — add helper methods
 2025-11-27 17:29:16 — fix type mismatch
 2025-11-27 17:30:09 — rename variables for clarity
+2025-11-27 17:30:11 — implement service layer
