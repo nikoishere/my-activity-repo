@@ -9449,3 +9449,4 @@
 2025-11-28 10:30:29 — update error messages
 2025-11-28 10:33:19 — add inline comments
 2025-11-28 10:33:22 — add validation logic
+2025-11-28 10:38:21 — fix null pointer issue
