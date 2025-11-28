@@ -9552,3 +9552,4 @@
 2025-11-28 15:08:37 — update README
 2025-11-28 15:10:57 — implement core logic
 2025-11-28 15:12:06 — add validation logic
+2025-11-28 15:13:14 — fix off-by-one error
