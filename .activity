@@ -9566,3 +9566,4 @@
 2025-11-28 15:37:15 — update dependencies
 2025-11-28 15:40:16 — fix null pointer issue
 2025-11-28 15:41:01 — add example usage
+2025-11-28 15:47:36 — improve test coverage
