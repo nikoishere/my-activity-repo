@@ -9535,3 +9535,4 @@
 2025-11-28 14:20:30 — fix edge case handling
 2025-11-28 14:24:02 — minor code cleanup
 2025-11-28 14:26:16 — optimize loop performance
+2025-11-28 14:34:31 — add helper methods
