@@ -9666,3 +9666,4 @@
 2025-12-01 11:07:31 — add example usage
 2025-12-01 11:07:45 — add helper methods
 2025-12-01 11:11:02 — reorganize file structure
+2025-12-01 11:11:18 — optimize loop performance
