@@ -9760,3 +9760,4 @@
 2025-12-01 15:18:57 — add helper methods
 2025-12-01 15:20:02 — fix type mismatch
 2025-12-01 15:22:20 — fix off-by-one error
+2025-12-01 15:33:17 — update config defaults
