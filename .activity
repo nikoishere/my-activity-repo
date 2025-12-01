@@ -9759,3 +9759,4 @@
 2025-12-01 15:17:37 — add configuration support
 2025-12-01 15:18:57 — add helper methods
 2025-12-01 15:20:02 — fix type mismatch
+2025-12-01 15:22:20 — fix off-by-one error
