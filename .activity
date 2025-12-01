@@ -9631,3 +9631,4 @@
 2025-12-01 09:45:54 — add feature scaffolding
 2025-12-01 09:46:06 — fix race condition
 2025-12-01 09:48:05 — implement retry mechanism
+2025-12-01 09:51:22 — add helper methods
