@@ -9853,3 +9853,4 @@
 2025-12-02 10:42:33 — fix broken import
 2025-12-02 10:46:31 — add unit tests
 2025-12-02 10:47:24 — bump version
+2025-12-02 10:52:35 — add initial implementation
