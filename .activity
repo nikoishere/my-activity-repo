@@ -9838,3 +9838,4 @@
 2025-12-02 09:53:17 — fix typo in variable name
 2025-12-02 10:05:43 — add example usage
 2025-12-02 10:05:43 — add test fixtures
+2025-12-02 10:08:58 — refactor module structure
