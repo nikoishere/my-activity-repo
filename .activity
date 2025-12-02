@@ -9802,3 +9802,4 @@
 2025-12-01 17:31:33 — fix race condition
 2025-12-01 17:32:56 — update config defaults
 2025-12-01 17:34:03 — add example usage
+2025-12-01 17:36:56 — reorganize file structure
