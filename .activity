@@ -9817,3 +9817,4 @@
 2025-12-02 09:06:58 — update config defaults
 2025-12-02 09:09:17 — tweak logging output
 2025-12-02 09:09:32 — fix off-by-one error
+2025-12-02 09:11:46 — implement error handling
