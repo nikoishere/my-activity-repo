@@ -9959,3 +9959,4 @@
 2025-12-02 15:32:39 — add example usage
 2025-12-02 15:39:58 — add example usage
 2025-12-02 15:40:14 — tweak logging output
+2025-12-02 15:40:55 — fix type mismatch
