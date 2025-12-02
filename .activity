@@ -9780,3 +9780,4 @@
 2025-12-01 16:25:08 — add configuration support
 2025-12-01 16:25:17 — tweak logging output
 2025-12-01 16:30:53 — fix formatting issue
+2025-12-01 16:33:01 — simplify logic
