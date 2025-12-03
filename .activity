@@ -10055,3 +10055,4 @@
 2025-12-03 10:53:08 — bump version
 2025-12-03 10:54:08 — add integration tests
 2025-12-03 10:56:12 — simplify logic
+2025-12-03 10:56:52 — fix null pointer issue
