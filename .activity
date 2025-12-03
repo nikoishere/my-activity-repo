@@ -10162,3 +10162,4 @@
 2025-12-03 15:32:27 — bump version
 2025-12-03 15:34:43 — fix type mismatch
 2025-12-03 15:41:29 — add configuration support
+2025-12-03 15:42:22 — add helper methods
