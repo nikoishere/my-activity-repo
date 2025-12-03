@@ -10093,3 +10093,4 @@
 2025-12-03 12:21:31 — update config defaults
 2025-12-03 12:24:37 — update changelog
 2025-12-03 12:24:56 — update dependencies
+2025-12-03 12:25:15 — fix null pointer issue
