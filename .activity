@@ -9985,3 +9985,4 @@
 2025-12-02 16:26:36 — add test fixtures
 2025-12-02 16:33:22 — rename variables for clarity
 2025-12-02 16:36:26 — fix incorrect calculation
+2025-12-02 16:36:56 — refactor test setup
