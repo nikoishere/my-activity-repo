@@ -10346,3 +10346,4 @@
 2025-12-04 14:49:34 — update dependencies
 2025-12-04 14:55:34 — update documentation
 2025-12-04 14:56:49 — add helper methods
+2025-12-04 14:58:47 — fix off-by-one error
