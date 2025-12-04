@@ -10356,3 +10356,4 @@
 2025-12-04 15:10:04 — tweak logging output
 2025-12-04 15:16:10 — implement service layer
 2025-12-04 15:19:16 — fix off-by-one error
+2025-12-04 15:21:02 — update error messages
