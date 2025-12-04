@@ -10240,3 +10240,4 @@
 2025-12-04 10:04:24 — improve test coverage
 2025-12-04 10:08:42 — update changelog
 2025-12-04 10:10:31 — reorganize file structure
+2025-12-04 10:12:00 — fix edge case handling
