@@ -10355,3 +10355,4 @@
 2025-12-04 15:09:28 — add integration tests
 2025-12-04 15:10:04 — tweak logging output
 2025-12-04 15:16:10 — implement service layer
+2025-12-04 15:19:16 — fix off-by-one error
