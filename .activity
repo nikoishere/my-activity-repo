@@ -10354,3 +10354,4 @@
 2025-12-04 15:08:05 — reorganize file structure
 2025-12-04 15:09:28 — add integration tests
 2025-12-04 15:10:04 — tweak logging output
+2025-12-04 15:16:10 — implement service layer
