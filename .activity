@@ -10172,3 +10172,4 @@
 2025-12-03 16:04:11 — implement core logic
 2025-12-03 16:04:35 — add example usage
 2025-12-03 16:07:08 — remove redundant code
+2025-12-03 16:09:22 — fix broken import
