@@ -10412,3 +10412,4 @@
 2025-12-04 17:48:09 — add initial implementation
 2025-12-04 17:52:43 — reorganize file structure
 2025-12-04 17:52:45 — fix off-by-one error
+2025-12-04 17:58:53 — update error messages
