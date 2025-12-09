@@ -10452,3 +10452,4 @@
 2025-12-09 10:34:44 — minor code cleanup
 2025-12-09 10:37:33 — minor style fixes
 2025-12-09 10:38:57 — add validation logic
+2025-12-09 10:41:43 — fix off-by-one error
