@@ -10496,3 +10496,4 @@
 2025-12-09 12:21:00 — rename variables for clarity
 2025-12-09 12:25:30 — bump version
 2025-12-09 12:26:01 — improve test coverage
+2025-12-09 12:28:01 — fix null pointer issue
