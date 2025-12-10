@@ -10618,3 +10618,4 @@
 2025-12-09 17:58:11 — add initial implementation
 2025-12-09 17:58:53 — tweak logging output
 2025-12-10 09:02:51 — fix null pointer issue
+2025-12-10 09:04:35 — fix race condition
