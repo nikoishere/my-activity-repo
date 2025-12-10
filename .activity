@@ -10624,3 +10624,4 @@
 2025-12-10 09:13:04 — update documentation
 2025-12-10 09:13:38 — update error messages
 2025-12-10 09:14:43 — add utility functions
+2025-12-10 09:15:07 — fix memory leak
