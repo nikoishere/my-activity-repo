@@ -10798,3 +10798,4 @@
 2025-12-10 17:01:18 — add unit tests
 2025-12-10 17:11:09 — fix incorrect calculation
 2025-12-10 17:12:08 — rename variables for clarity
+2025-12-10 17:12:41 — fix race condition
