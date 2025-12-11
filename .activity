@@ -10790,3 +10790,4 @@
 2025-12-10 16:43:31 — implement caching layer
 2025-12-10 16:43:32 — refactor module structure
 2025-12-10 16:44:40 — add unit tests
+2025-12-10 16:45:40 — fix broken import
